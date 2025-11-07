@@ -1,0 +1,23 @@
+App(
+    appid="chameleon_ultra",
+    name="Chameleon Ultra",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="chameleon_ultra_app",
+    stack_size=2 * 1024,
+    fap_category="RFID",
+    fap_version="0.1.0",
+    fap_icon="assets/icons/chameleon_10px.png",
+    fap_description="Bluetooth connector and full integration with Chameleon Ultra V2",
+    fap_author="André De Muylder",
+    fap_weburl="https://github.com/muylder/chameleon-ultra-flipper",
+    requires=[
+        "gui",
+        "bt",
+        "dialogs",
+        "notification",
+        "storage",
+    ],
+    fap_libs=[
+        "assets",
+    ],
+)

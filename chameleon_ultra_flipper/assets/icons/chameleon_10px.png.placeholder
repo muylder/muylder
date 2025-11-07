@@ -1,0 +1,15 @@
+# Icon Placeholder
+
+This file is a placeholder for the actual icon.
+
+To create the icon:
+1. Create a 10x10px PNG image with the Chameleon logo
+2. Save as `chameleon_10px.png` (remove .placeholder extension)
+3. Ensure it's monochrome (black and white)
+
+You can use the Flipper icon editor or any image editor.
+
+Example using ImageMagick:
+```bash
+convert -size 10x10 xc:white -fill black -draw "circle 5,5 5,0" chameleon_10px.png
+```
