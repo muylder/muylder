@@ -1,17 +1,17 @@
-# [cite_start]Olá, eu sou o André De Muylder Oliveira [cite: 308]
+# Olá, eu sou o André De Muylder Oliveira [cite: 308]
 
-### Contabilidade | Análise de Dados | Web3 Enthusiast | Web Developer | [cite_start]Curioso [cite: 309]
+### Contabilidade | Análise de Dados | Web3 Enthusiast | Web Developer | Curioso [cite: 309]
 
-[cite_start]Sou um profissional multidisciplinar com mais de 10 anos de experiência consolidada em Contabilidade, Administração e Tecnologia da Informação[cite: 312, 314]. [cite_start]Sempre em busca de novos desafios, adoro aplicar tecnologia e inovação na gestão empresarial[cite: 321].
+Sou um profissional multidisciplinar com mais de 10 anos de experiência consolidada em Contabilidade, Administração e Tecnologia da Informação[cite: 312, 314]. Sempre em busca de novos desafios, adoro aplicar tecnologia e inovação na gestão empresarial[cite: 321].
 
-[cite_start]Atualmente, atuo no Ministério Público do Estado de Minas Gerais na gestão de indicadores, controle orçamentário e desenvolvimento de soluções com foco em automação e eficiência[cite: 313, 320]. Quando não estou imerso em dados ou dashboards, você me encontra focado em projetos *tech/nerd*, curtindo uma boa música acompanhada de café, ou assistindo a animes Shonen, como *Attack on Titan*.
+Atualmente, atuo no Ministério Público do Estado de Minas Gerais na gestão de indicadores, controle orçamentário e desenvolvimento de soluções com foco em automação e eficiência[cite: 313, 320]. Quando não estou imerso em dados ou dashboards, você me encontra focado em projetos *tech/nerd*, curtindo uma boa música acompanhada de café, ou assistindo a animes Shonen, como *Attack on Titan*.
 
 ---
 
 ## O Que Estou Fazendo / Projetos Recentes
 
-* [cite_start]**MaxyEdu:** Atuando como fundador no desenvolvimento estratégico e na arquitetura deste projeto voltado para infraestrutura B2B EdTech/Fintech, explorando DApps e blockchains privadas[cite: 352, 353].
-* [cite_start]**Gestão Pública (MPMG):** Desenvolvimento de dashboards no Excel e Power BI para gestão de contratos e indicadores[cite: 329, 330], além de implementação e monitoramento de OKRs.
+* **MaxyEdu:** Atuando como fundador no desenvolvimento estratégico e na arquitetura deste projeto voltado para infraestrutura B2B EdTech/Fintech, explorando DApps e blockchains privadas[cite: 352, 353].
+* **Gestão Pública (MPMG):** Desenvolvimento de dashboards no Excel e Power BI para gestão de contratos e indicadores[cite: 329, 330], além de implementação e monitoramento de OKRs.
 * **Hardware Hacking & Design Digital:** Criação de *pixel art* e interfaces para projetos de pets digitais no M5Cardputer, desenvolvimento de animações para Flipper Zero e Chameleon Ultra, e criação de scripts para injeção HID.
 * **Consultoria Estratégica:** Estruturação de manuais de implementação logística, análise de regimes tributários e prevenção de bitributação para operações de e-commerce e *in-store pickup*.
 
@@ -36,17 +36,17 @@
 
 ## Formação Acadêmica e Certificações
 
-* [cite_start]**Pós-Graduação:** Engenharia e Arquitetura de Dados e IA – XP Educação[cite: 425, 426].
-* [cite_start]**Pós-Graduação:** Business Inteligence and Analytics – Escola Conquer[cite: 429, 430].
-* [cite_start]**Certificação Internacional:** Certified Cybersecurity Technician (CICT) – EC-Council University[cite: 427, 428].
-* [cite_start]**Cursos Avançados em Dados/IA (EC-Council):** Hands-on Natural Language Processing (NLP), Advanced Deep Learning, Advanced Machine Learning for Business Professionals, Computational Mathematics for Data Science[cite: 22, 31, 57, 102].
-* [cite_start]**Cursos em Segurança e Blockchain:** Deep Web and Cybersecurity, Análise de Dados em Criptomoedas[cite: 109, 152].
+* **Pós-Graduação:** Engenharia e Arquitetura de Dados e IA – XP Educação[cite: 425, 426].
+* **Pós-Graduação:** Business Inteligence and Analytics – Escola Conquer[cite: 429, 430].
+* **Certificação Internacional:** Certified Cybersecurity Technician (CICT) – EC-Council University[cite: 427, 428].
+* **Cursos Avançados em Dados/IA (EC-Council):** Hands-on Natural Language Processing (NLP), Advanced Deep Learning, Advanced Machine Learning for Business Professionals, Computational Mathematics for Data Science[cite: 22, 31, 57, 102].
+* **Cursos em Segurança e Blockchain:** Deep Web and Cybersecurity, Análise de Dados em Criptomoedas[cite: 109, 152].
 
 ## Como me encontrar
 
-* [cite_start]**LinkedIn:** [/in/andre-de-muylder](www.linkedin.com/in/andre-de-muylder) [cite: 293, 294]
-* [cite_start]**Behance:** [andre_muylder](https://www.behance.net/andre_muylder) [cite: 289, 290]
-* [cite_start]**E-mail:** [andre_muylder@hotmail.com](mailto:andre_muylder@hotmail.com) [cite: 292]
+* **LinkedIn:** [/in/andre-de-muylder](www.linkedin.com/in/andre-de-muylder) [cite: 293, 294]
+* **Behance:** [andre_muylder](https://www.behance.net/andre_muylder) [cite: 289, 290]
+* **E-mail:** [andre_muylder@hotmail.com](mailto:andre_muylder@hotmail.com) [cite: 292]
 
 <br/>
 <p align="center">
