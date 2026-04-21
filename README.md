@@ -1,4 +1,4 @@
-# Olá, eu sou o André De Muylder Oliveira [cite: 308]
+# Olá, eu sou o André De Muylder Oliveira
 
 ### Contabilidade | Análise de Dados | Web3 Enthusiast | Web Developer | Curioso 
 
