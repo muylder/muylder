@@ -47,7 +47,7 @@ Currently, I work at the Public Prosecutor's Office of the State of Minas Gerais
   <i>"Curiosity is the engine of inovation."</i>
 </p>
 
----
+------
 # Olá, eu sou o André De Muylder Oliveira
 
 ### Contabilidade | Análise de Dados | Web3 Enthusiast | Web Developer | Curioso 
