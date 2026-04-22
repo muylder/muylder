@@ -32,7 +32,7 @@ Currently, I work at the Public Prosecutor's Office of the State of Minas Gerais
 
 ## Academic Background and Certifications
 
-* **Postgraduate Degree:** Data Engineering and Architecture and AI – XP Educação.
+* **Postgraduate Degree:** Data Engineering, Architecture, and AI – XP Educação.
 * **Postgraduate Degree:** Business Intelligence and Analytics – Escola Conquer.
 * **Advanced Courses in Data/AI (EC-Council):** Hands-on Natural Language Processing (NLP), Advanced Deep Learning, Advanced Machine Learning for Business Professionals, Computational Mathematics for Data Science.
 ---
